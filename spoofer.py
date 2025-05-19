@@ -1,6 +1,6 @@
-#!/usr/bin/env -S uv run --script
+#!/usr/bin/env uv run --script
 # /// script
-# requires-python = ">=3.12"
+# requires-python = ">=3.10"
 # dependencies = ["scapy", "colorama"]
 # ///
 
